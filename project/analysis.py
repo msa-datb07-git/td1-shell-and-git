@@ -7,3 +7,8 @@ def load_sales(path):
     """Read a sales CSV file and return a list of dictionaries (one per row)."""
     with open(path, newline="") as f:
         return list(csv.DictReader(f))
+
+
+def total_revenue(rows):
+    """Sum quantity * unit_price over all rows."""
+    return sum(float(r["quantity"]) * float(r["unit_price"]) for r in rows)
