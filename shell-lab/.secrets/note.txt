@@ -1,0 +1,1 @@
+You found the hidden directory. The answer to the last shell question is: ls -la

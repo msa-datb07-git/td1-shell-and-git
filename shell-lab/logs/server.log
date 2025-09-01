@@ -1,0 +1,300 @@
+2025-03-14 08:00:42 INFO  Job scheduled
+2025-03-13 08:01:10 WARN  Slow query (1.8s)
+2025-03-14 08:01:28 INFO  Job scheduled
+2025-03-13 08:01:46 INFO  Job scheduled
+2025-03-11 08:02:18 INFO  Report generated
+2025-03-14 08:03:47 INFO  Report generated
+2025-03-10 08:05:08 INFO  Request served
+2025-03-13 08:05:42 INFO  Cache hit
+2025-03-12 08:06:46 INFO  Cache hit
+2025-03-13 08:07:13 INFO  Report generated
+2025-03-12 08:07:33 INFO  Request served
+2025-03-10 08:07:51 WARN  Slow query (1.8s)
+2025-03-12 08:08:24 INFO  Job scheduled
+2025-03-13 08:08:33 INFO  Job scheduled
+2025-03-11 08:09:28 WARN  Disk usage above 80%
+2025-03-13 08:10:50 INFO  Cache hit
+2025-03-10 08:11:31 INFO  Cache hit
+2025-03-12 08:11:36 INFO  Job scheduled
+2025-03-10 08:12:03 INFO  Cache hit
+2025-03-13 08:12:09 INFO  Job scheduled
+2025-03-14 08:12:19 INFO  Report generated
+2025-03-11 08:12:39 WARN  Retrying upload
+2025-03-14 08:13:05 INFO  Cache hit
+2025-03-11 08:13:26 INFO  User login
+2025-03-11 08:14:01 INFO  Cache hit
+2025-03-11 08:14:20 INFO  User login
+2025-03-10 08:15:49 ERROR File not found: sales_2023_q4.csv
+2025-03-10 08:16:36 INFO  User login
+2025-03-12 08:17:18 INFO  Job scheduled
+2025-03-14 08:17:34 WARN  Disk usage above 80%
+2025-03-13 08:18:50 INFO  Cache hit
+2025-03-13 08:19:06 INFO  Cache hit
+2025-03-10 08:19:27 INFO  Report generated
+2025-03-11 08:20:03 INFO  Cache hit
+2025-03-12 08:20:21 INFO  Job scheduled
+2025-03-13 08:20:40 INFO  Request served
+2025-03-13 08:21:08 INFO  Cache hit
+2025-03-12 08:22:38 INFO  Cache hit
+2025-03-10 08:23:00 ERROR Database connection timeout
+2025-03-11 08:24:28 INFO  Request served
+2025-03-13 08:24:59 INFO  Request served
+2025-03-13 08:26:23 INFO  Request served
+2025-03-12 08:26:31 INFO  Cache hit
+2025-03-12 08:27:55 INFO  Job scheduled
+2025-03-12 08:29:23 INFO  Request served
+2025-03-12 08:30:32 INFO  User login
+2025-03-12 08:31:06 INFO  Job scheduled
+2025-03-14 08:32:04 INFO  Job scheduled
+2025-03-10 08:32:29 ERROR Permission denied: /var/reports
+2025-03-10 08:33:21 INFO  Cache hit
+2025-03-12 08:33:50 ERROR Permission denied: /var/reports
+2025-03-14 08:34:35 INFO  User login
+2025-03-14 08:35:35 INFO  User login
+2025-03-10 08:36:17 INFO  Job scheduled
+2025-03-11 08:36:37 INFO  Cache hit
+2025-03-12 08:37:17 INFO  Cache hit
+2025-03-10 08:38:28 INFO  Report generated
+2025-03-14 08:38:40 INFO  Job scheduled
+2025-03-12 08:38:55 INFO  Request served
+2025-03-12 08:40:16 INFO  Cache hit
+2025-03-12 08:41:40 INFO  Report generated
+2025-03-11 08:41:52 ERROR File not found: sales_2023_q4.csv
+2025-03-11 08:42:49 WARN  Retrying upload
+2025-03-12 08:43:49 INFO  Job scheduled
+2025-03-12 08:45:12 WARN  Retrying upload
+2025-03-14 08:45:46 INFO  Job scheduled
+2025-03-10 08:46:36 INFO  Job scheduled
+2025-03-14 08:48:01 ERROR File not found: sales_2023_q4.csv
+2025-03-11 08:49:20 INFO  Cache hit
+2025-03-13 08:50:40 INFO  Cache hit
+2025-03-13 08:51:23 INFO  Request served
+2025-03-12 08:51:44 INFO  Job scheduled
+2025-03-14 08:53:08 INFO  User login
+2025-03-14 08:54:27 INFO  Report generated
+2025-03-10 08:55:11 INFO  Cache hit
+2025-03-13 08:56:35 INFO  Cache hit
+2025-03-13 08:57:27 INFO  Report generated
+2025-03-10 08:57:33 INFO  User login
+2025-03-11 08:57:52 INFO  User login
+2025-03-11 08:58:29 INFO  Cache hit
+2025-03-14 08:59:40 INFO  User login
+2025-03-12 09:00:23 INFO  Cache hit
+2025-03-10 09:01:37 INFO  User login
+2025-03-10 09:02:53 INFO  Job scheduled
+2025-03-10 09:03:33 WARN  Retrying upload
+2025-03-13 09:03:47 INFO  User login
+2025-03-14 09:04:35 ERROR File not found: sales_2023_q4.csv
+2025-03-14 09:04:49 INFO  Request served
+2025-03-14 09:06:12 INFO  Report generated
+2025-03-14 09:06:20 INFO  Report generated
+2025-03-13 09:07:12 INFO  Job scheduled
+2025-03-10 09:08:23 INFO  Job scheduled
+2025-03-12 09:08:30 INFO  User login
+2025-03-10 09:08:45 INFO  Job scheduled
+2025-03-10 09:09:48 INFO  Cache hit
+2025-03-10 09:10:04 INFO  Request served
+2025-03-14 09:10:19 WARN  Slow query (1.8s)
+2025-03-11 09:10:45 INFO  Report generated
+2025-03-14 09:11:30 INFO  Request served
+2025-03-10 09:12:21 INFO  User login
+2025-03-13 09:13:41 INFO  Job scheduled
+2025-03-12 09:14:58 INFO  Request served
+2025-03-11 09:16:23 INFO  User login
+2025-03-14 09:17:06 INFO  Job scheduled
+2025-03-14 09:17:58 INFO  User login
+2025-03-12 09:18:18 INFO  Report generated
+2025-03-13 09:19:48 INFO  Report generated
+2025-03-10 09:20:06 INFO  User login
+2025-03-11 09:20:45 INFO  Cache hit
+2025-03-12 09:22:03 INFO  Job scheduled
+2025-03-10 09:22:51 WARN  Disk usage above 80%
+2025-03-14 09:23:58 WARN  Slow query (1.8s)
+2025-03-12 09:25:20 INFO  Job scheduled
+2025-03-14 09:25:42 ERROR Permission denied: /var/reports
+2025-03-12 09:25:51 INFO  User login
+2025-03-12 09:26:55 INFO  User login
+2025-03-10 09:27:41 INFO  User login
+2025-03-12 09:28:00 INFO  Report generated
+2025-03-10 09:28:27 INFO  User login
+2025-03-12 09:28:58 ERROR File not found: sales_2023_q4.csv
+2025-03-11 09:29:51 WARN  Retrying upload
+2025-03-14 09:30:22 INFO  Request served
+2025-03-14 09:31:23 INFO  User login
+2025-03-14 09:32:24 INFO  Report generated
+2025-03-11 09:33:01 INFO  Report generated
+2025-03-13 09:34:26 INFO  Cache hit
+2025-03-13 09:35:21 INFO  Job scheduled
+2025-03-10 09:36:15 WARN  Retrying upload
+2025-03-13 09:36:32 INFO  Request served
+2025-03-13 09:37:55 INFO  Report generated
+2025-03-14 09:38:17 INFO  Job scheduled
+2025-03-13 09:39:29 INFO  User login
+2025-03-11 09:40:09 WARN  Disk usage above 80%
+2025-03-11 09:41:10 WARN  Retrying upload
+2025-03-14 09:42:24 INFO  User login
+2025-03-10 09:43:08 INFO  User login
+2025-03-13 09:44:36 INFO  Request served
+2025-03-14 09:46:06 INFO  Request served
+2025-03-11 09:47:03 INFO  Cache hit
+2025-03-11 09:47:08 INFO  Report generated
+2025-03-12 09:48:28 INFO  Job scheduled
+2025-03-14 09:49:09 INFO  Cache hit
+2025-03-13 09:50:15 INFO  User login
+2025-03-11 09:50:37 INFO  Report generated
+2025-03-14 09:52:07 INFO  User login
+2025-03-11 09:52:14 INFO  Job scheduled
+2025-03-10 09:52:37 INFO  Job scheduled
+2025-03-11 09:53:33 INFO  Cache hit
+2025-03-11 09:54:36 INFO  Report generated
+2025-03-11 09:55:54 INFO  Cache hit
+2025-03-12 09:56:15 ERROR File not found: sales_2023_q4.csv
+2025-03-14 09:57:22 INFO  Request served
+2025-03-13 09:58:22 INFO  Cache hit
+2025-03-12 09:59:38 INFO  Request served
+2025-03-11 10:00:12 INFO  Request served
+2025-03-12 10:01:27 INFO  Request served
+2025-03-12 10:02:29 INFO  Request served
+2025-03-14 10:03:30 INFO  Cache hit
+2025-03-14 10:04:25 INFO  User login
+2025-03-11 10:04:33 INFO  Request served
+2025-03-14 10:05:40 INFO  User login
+2025-03-10 10:06:06 ERROR Database connection timeout
+2025-03-11 10:07:03 INFO  Request served
+2025-03-13 10:07:56 INFO  User login
+2025-03-12 10:09:00 INFO  Job scheduled
+2025-03-12 10:09:37 INFO  Job scheduled
+2025-03-13 10:10:17 ERROR Permission denied: /var/reports
+2025-03-13 10:11:40 INFO  Cache hit
+2025-03-12 10:13:03 INFO  User login
+2025-03-11 10:13:59 ERROR Permission denied: /var/reports
+2025-03-12 10:14:06 INFO  User login
+2025-03-13 10:14:28 INFO  Request served
+2025-03-10 10:15:37 INFO  Job scheduled
+2025-03-12 10:16:08 ERROR File not found: sales_2023_q4.csv
+2025-03-13 10:17:06 WARN  Disk usage above 80%
+2025-03-11 10:17:19 INFO  User login
+2025-03-10 10:17:42 ERROR File not found: sales_2023_q4.csv
+2025-03-13 10:18:35 INFO  User login
+2025-03-14 10:18:54 INFO  Request served
+2025-03-14 10:20:21 INFO  User login
+2025-03-14 10:21:50 INFO  Report generated
+2025-03-11 10:22:24 ERROR File not found: sales_2023_q4.csv
+2025-03-12 10:23:43 INFO  Cache hit
+2025-03-10 10:24:37 WARN  Retrying upload
+2025-03-13 10:25:21 INFO  Cache hit
+2025-03-10 10:25:50 INFO  Cache hit
+2025-03-13 10:26:22 WARN  Disk usage above 80%
+2025-03-12 10:27:00 INFO  User login
+2025-03-13 10:27:38 INFO  Report generated
+2025-03-12 10:28:27 WARN  Slow query (1.8s)
+2025-03-13 10:28:42 WARN  Disk usage above 80%
+2025-03-10 10:29:55 INFO  Report generated
+2025-03-10 10:30:15 INFO  Request served
+2025-03-13 10:31:02 INFO  Job scheduled
+2025-03-13 10:32:03 INFO  User login
+2025-03-13 10:32:16 INFO  Request served
+2025-03-11 10:32:24 INFO  Cache hit
+2025-03-12 10:32:49 INFO  Request served
+2025-03-13 10:33:13 WARN  Slow query (1.8s)
+2025-03-14 10:34:22 INFO  Request served
+2025-03-10 10:35:36 INFO  Report generated
+2025-03-10 10:35:43 INFO  Cache hit
+2025-03-13 10:36:13 INFO  Report generated
+2025-03-14 10:36:22 INFO  Cache hit
+2025-03-11 10:37:31 INFO  Request served
+2025-03-12 10:38:36 INFO  User login
+2025-03-14 10:39:29 INFO  User login
+2025-03-12 10:39:36 INFO  Cache hit
+2025-03-12 10:40:49 INFO  Report generated
+2025-03-12 10:41:40 INFO  Request served
+2025-03-14 10:42:19 INFO  Cache hit
+2025-03-10 10:43:33 WARN  Slow query (1.8s)
+2025-03-14 10:44:47 WARN  Retrying upload
+2025-03-14 10:45:59 INFO  User login
+2025-03-13 10:46:34 INFO  Report generated
+2025-03-10 10:46:55 INFO  Job scheduled
+2025-03-11 10:47:53 INFO  User login
+2025-03-12 10:48:07 WARN  Slow query (1.8s)
+2025-03-13 10:48:31 INFO  Request served
+2025-03-12 10:48:52 INFO  Job scheduled
+2025-03-12 10:49:38 INFO  Cache hit
+2025-03-14 10:50:07 INFO  Report generated
+2025-03-14 10:51:11 INFO  Cache hit
+2025-03-12 10:51:38 ERROR Database connection timeout
+2025-03-13 10:51:53 INFO  Report generated
+2025-03-10 10:53:10 INFO  Job scheduled
+2025-03-10 10:53:23 ERROR Database connection timeout
+2025-03-10 10:54:23 INFO  Report generated
+2025-03-14 10:55:26 WARN  Retrying upload
+2025-03-14 10:56:42 INFO  Request served
+2025-03-10 10:57:04 INFO  Request served
+2025-03-13 10:58:32 WARN  Retrying upload
+2025-03-10 10:58:54 INFO  Job scheduled
+2025-03-14 10:59:41 INFO  Cache hit
+2025-03-11 10:59:54 INFO  Cache hit
+2025-03-14 11:00:17 INFO  Request served
+2025-03-12 11:01:17 INFO  User login
+2025-03-14 11:02:02 INFO  Request served
+2025-03-12 11:02:45 INFO  Report generated
+2025-03-14 11:04:14 INFO  Cache hit
+2025-03-11 11:05:10 INFO  User login
+2025-03-13 11:05:34 INFO  Job scheduled
+2025-03-13 11:05:54 INFO  User login
+2025-03-13 11:06:26 INFO  Cache hit
+2025-03-13 11:07:20 INFO  Request served
+2025-03-10 11:08:12 INFO  Request served
+2025-03-14 11:08:21 INFO  User login
+2025-03-12 11:08:50 INFO  User login
+2025-03-14 11:10:01 INFO  Job scheduled
+2025-03-12 11:10:53 INFO  Report generated
+2025-03-13 11:12:00 WARN  Slow query (1.8s)
+2025-03-11 11:13:07 INFO  User login
+2025-03-12 11:14:35 INFO  Request served
+2025-03-11 11:15:03 ERROR Database connection timeout
+2025-03-10 11:15:51 INFO  Report generated
+2025-03-10 11:16:41 INFO  User login
+2025-03-10 11:17:37 INFO  Job scheduled
+2025-03-13 11:18:36 ERROR File not found: sales_2023_q4.csv
+2025-03-12 11:19:10 WARN  Retrying upload
+2025-03-12 11:19:49 INFO  Cache hit
+2025-03-13 11:20:09 INFO  Request served
+2025-03-13 11:21:35 INFO  Request served
+2025-03-11 11:22:01 WARN  Slow query (1.8s)
+2025-03-13 11:22:09 INFO  Request served
+2025-03-12 11:23:30 INFO  Report generated
+2025-03-10 11:24:49 INFO  Request served
+2025-03-12 11:25:32 WARN  Disk usage above 80%
+2025-03-12 11:25:41 INFO  User login
+2025-03-12 11:26:50 INFO  User login
+2025-03-14 11:27:31 INFO  User login
+2025-03-10 11:28:51 INFO  Job scheduled
+2025-03-10 11:29:32 INFO  User login
+2025-03-11 11:30:40 INFO  Job scheduled
+2025-03-11 11:31:10 INFO  Request served
+2025-03-13 11:31:42 INFO  Cache hit
+2025-03-11 11:33:05 INFO  Cache hit
+2025-03-12 11:34:01 ERROR Database connection timeout
+2025-03-10 11:34:33 INFO  Job scheduled
+2025-03-12 11:35:50 INFO  Report generated
+2025-03-10 11:37:09 INFO  Request served
+2025-03-13 11:38:24 INFO  Cache hit
+2025-03-13 11:39:28 INFO  Cache hit
+2025-03-13 11:39:44 WARN  Disk usage above 80%
+2025-03-12 11:41:06 INFO  User login
+2025-03-14 11:41:35 WARN  Slow query (1.8s)
+2025-03-11 11:42:12 WARN  Retrying upload
+2025-03-12 11:43:25 INFO  Request served
+2025-03-14 11:44:28 ERROR File not found: sales_2023_q4.csv
+2025-03-11 11:45:52 INFO  Job scheduled
+2025-03-13 11:46:24 INFO  Job scheduled
+2025-03-10 11:46:46 WARN  Retrying upload
+2025-03-14 11:47:43 INFO  Job scheduled
+2025-03-14 11:48:38 WARN  Slow query (1.8s)
+2025-03-10 11:48:55 WARN  Disk usage above 80%
+2025-03-14 11:50:01 INFO  Request served
+2025-03-10 11:50:34 INFO  Report generated
+2025-03-10 11:51:02 ERROR Permission denied: /var/reports
+2025-03-10 11:52:23 WARN  Slow query (1.8s)
+2025-03-12 11:52:57 WARN  Retrying upload
+2025-03-10 11:53:03 INFO  Report generated
