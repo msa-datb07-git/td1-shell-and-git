@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Generated outputs
+outputs/
+*.png
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
