@@ -10,5 +10,7 @@ def load_sales(path):
 
 
 def total_revenue(rows):
-    """Sum quantity * unit_price over all rows."""
+    """Sum quantity * unit_price over all rows. Returns 0.0 for an empty file."""
+    if not rows:
+        return 0.0
     return sum(float(r["quantity"]) * float(r["unit_price"]) for r in rows)
